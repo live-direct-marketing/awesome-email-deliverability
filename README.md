@@ -69,6 +69,8 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 - [Mail-Tester](https://www.mail-tester.com/) — Spam score from 1-10 with detailed breakdown. 3 free tests/day.
 - [Postmark Spam Check](https://spamcheck.postmarkapp.com/) — Free SpamAssassin check — paste your email content and get a score.
 - [IsNotSpam](https://isnotspam.com/) — Send test email, get SPF/DKIM/DMARC and SpamAssassin results.
+- [Unspam](https://unspam.email/) — Email spam checker with inbox placement with 10 free tests per month.
+
 
 ## Outreach Platforms
 
