@@ -1,5 +1,8 @@
 # Awesome Email Deliverability [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![GitHub stars](https://img.shields.io/github/stars/live-direct-marketing/awesome-email-deliverability?style=social)
+![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)
+
 > A curated list of tools, resources, and best practices for email deliverability, authentication, and inbox placement testing.
 
 ## Contents
@@ -12,6 +15,7 @@
 - [Email Validation & Verification](#email-validation--verification)
 - [Spam Score Testing](#spam-score-testing)
 - [Outreach Platforms](#outreach-platforms)
+- [MCP & AI Tools for Email](#mcp--ai-tools-for-email)
 - [Learning Resources](#learning-resources)
 - [RFCs & Standards](#rfcs--standards)
 
@@ -19,7 +23,7 @@
 
 Tools that test where your email actually lands — Inbox, Spam, or Promotions.
 
-- [Inbox Placement Test](https://check.live-direct-marketing.online/) — Free seed-based inbox placement test across Gmail, Outlook, Yahoo, Mail.ru, and Yandex. Live results via SSE. No signup required. REST API available.
+- ⭐ **[Inbox Placement Test](https://check.live-direct-marketing.online)** — **Free**, no-signup inbox placement test across **9 providers**: Gmail, Outlook, Yahoo, iCloud, AOL, GMX, T-Online, Mail.ru, Yandex. Live SSE results, REST API, MCP server.
 - [GlockApps](https://glockapps.com/) — Comprehensive inbox placement testing with per-provider reports. 2 free tests, paid plans from $59/month.
 - [Litmus](https://www.litmus.com/) — Email testing and analytics platform with spam filter testing. Primarily paid.
 - [Email on Acid](https://www.emailonacid.com/) — Email previewing and deliverability testing across clients and devices.
@@ -74,11 +78,17 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 
 Platforms with built-in deliverability management.
 
-- [LDM Platform](https://live-direct-marketing.online/) — B2B outreach platform with warm-up, account rotation, SPF/DKIM/DMARC management, and 85%+ inbox placement.
+- **[LDM Platform](https://live-direct-marketing.online)** — B2B cold outreach platform with warm-up, account rotation, SPF/DKIM/DMARC management, and 85%+ inbox placement. Supports Gmail, Outlook, Yandex, Mail.ru.
 - [Lemlist](https://www.lemlist.com/) — Cold email platform with built-in warm-up.
 - [Instantly.ai](https://instantly.ai/) — Cold email infrastructure with unlimited warm-up.
 - [Smartlead](https://www.smartlead.ai/) — Cold email with auto-rotation and warm-up.
 - [Woodpecker](https://woodpecker.co/) — Cold email for B2B with deliverability monitoring.
+
+## MCP & AI Tools for Email
+
+Tools that let AI agents (Claude, Cursor, Windsurf) interact with email deliverability systems.
+
+- [ldm-inbox-check-mcp](https://github.com/live-direct-marketing/ldm-inbox-check-mcp) — MCP server for programmatic inbox placement testing. Listed on [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) and [Glama](https://glama.ai/mcp/servers/live-direct-marketing/ldm-inbox-check-mcp).
 
 ## Learning Resources
 
@@ -108,6 +118,10 @@ Platforms with built-in deliverability management.
 Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
 
 If you know of a tool or resource that should be on this list, please open a pull request.
+
+## Maintained by
+
+This list is maintained by [Live Direct Marketing](https://live-direct-marketing.online) — the team behind [Inbox Placement Test](https://check.live-direct-marketing.online) (featured in this list). We strive to keep this list objective and welcome PRs for any missing tools, even competitors.
 
 ## License
 
