@@ -103,6 +103,7 @@ Tools that let AI agents (Claude, Cursor, Windsurf) interact with email delivera
 
 - [Email Authentication Explained](https://postmarkapp.com/guides/email-authentication-spf-dkim-dmarc) — Postmark's comprehensive guide to SPF, DKIM, and DMARC.
 - [Deliverability Guide by Mailtrap](https://mailtrap.io/blog/email-deliverability/) — Comprehensive deliverability overview.
+- [Mautic](https://www.mautic.org) - Open-source email marketing automation platform for newsletters, segmentation, and campaign workflows.
 
 ## RFCs & Standards
 
