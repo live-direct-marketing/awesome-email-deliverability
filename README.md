@@ -38,6 +38,7 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 - [Google Admin Toolbox](https://toolbox.googleapps.com/apps/checkmx/) — Check MX records and DNS configuration for Gmail deliverability.
 - [DMARC Analyzer](https://www.dmarcanalyzer.com/) — DMARC record validation and reporting.
 - [SPF Record Checker](https://www.kitterman.com/spf/validate.html) — Validate SPF records for syntax and DNS lookup limits.
+- [ReviewMyDNS](https://reviewmydns.com/) — Plain-English DNS/email deliverability checker for non-technical small business owners (SPF/DKIM/DMARC health scanner).
 
 ## Blacklist Monitoring
 
