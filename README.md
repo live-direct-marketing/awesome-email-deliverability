@@ -98,7 +98,8 @@ Tools that let AI agents (Claude, Cursor, Windsurf) interact with email delivera
 - [Yahoo Sender Requirements](https://senders.yahooinc.com/best-practices/) — Yahoo/AOL sender authentication requirements.
 - [RFC 7489 — DMARC](https://datatracker.ietf.org/doc/html/rfc7489) — The DMARC specification.
 - [M3AAWG Best Practices](https://www.m3aawg.org/published-documents) — Messaging, Malware and Mobile Anti-Abuse Working Group best practices.
-
+- [Email Authentication Statistics 2026 — ohmysend](https://www.ohmysend.com/deliverability-solutions/email-authentication-statistics) — Original data study: 217 real emails from 34 top-traffic brands analyzed via Gmail API. DMARC enforcement, ESP transport share, spam placement.
+- 
 ### Guides
 
 - [Email Authentication Explained](https://postmarkapp.com/guides/email-authentication-spf-dkim-dmarc) — Postmark's comprehensive guide to SPF, DKIM, and DMARC.
