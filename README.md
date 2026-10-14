@@ -59,6 +59,7 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 - [Microsoft SNDS](https://sendersupport.olc.protection.outlook.com/snds/) — Smart Network Data Services. Monitor reputation with Outlook/Hotmail.
 - [Sender Score](https://senderscore.org/) — Check your IP sending reputation (score 0-100).
 - [Talos Intelligence](https://talosintelligence.com/reputation_center) — Cisco's IP/domain reputation lookup.
+- [Warmerly](https://warmerly.com/) - Free plan with paid plans from $19/month. Gradual mailbox warm-up for Gmail and Outlook, with daily SPF, DKIM and DMARC checks and inbox placement tests.
 
 ## Email Validation & Verification
 
