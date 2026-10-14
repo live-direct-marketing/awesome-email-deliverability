@@ -98,6 +98,7 @@ Tools that let AI agents (Claude, Cursor, Windsurf) interact with email delivera
 - [Yahoo Sender Requirements](https://senders.yahooinc.com/best-practices/) — Yahoo/AOL sender authentication requirements.
 - [RFC 7489 — DMARC](https://datatracker.ietf.org/doc/html/rfc7489) — The DMARC specification.
 - [M3AAWG Best Practices](https://www.m3aawg.org/published-documents) — Messaging, Malware and Mobile Anti-Abuse Working Group best practices.
+- [Bulk sender requirements dataset](https://github.com/WarmerlyApp/bulk-sender-requirements) — What Gmail, Yahoo and Outlook.com require from bulk senders (SPF, DKIM, DMARC, unsubscribe, spam rate), sourced from each provider. CC BY 4.0.
 
 ### Guides
 
