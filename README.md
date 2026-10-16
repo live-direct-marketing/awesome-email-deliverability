@@ -35,6 +35,7 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 - [MXToolbox](https://mxtoolbox.com/) — Industry standard for MX, SPF, DKIM, DMARC lookups, blacklist checks, and SMTP diagnostics.
 - [DKIM Validator](https://dkimvalidator.com/) — Send an email and get a full authentication report including DKIM, SPF, and SpamAssassin score.
 - [Mail-Tester](https://www.mail-tester.com/) — Send an email to a unique address, get a spam score (1-10) with SPF/DKIM/DMARC analysis. 3 free tests/day.
+- [MailSenpai DNS Check](https://en.mailsenpai.com/dns-check-api/) — Free public SPF, DKIM, DMARC and MX checks via a JSON API; no API key, 30 checks/hour per IP.
 - [Google Admin Toolbox](https://toolbox.googleapps.com/apps/checkmx/) — Check MX records and DNS configuration for Gmail deliverability.
 - [DMARC Analyzer](https://www.dmarcanalyzer.com/) — DMARC record validation and reporting.
 - [SPF Record Checker](https://www.kitterman.com/spf/validate.html) — Validate SPF records for syntax and DNS lookup limits.
