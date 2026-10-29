@@ -67,7 +67,7 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 - [NeverBounce](https://neverbounce.com/) — Real-time email verification API.
 - [Reoon Email Verifier](https://www.reoon.com/) — Bulk email verification with high accuracy.
 - [Bouncer](https://www.usebouncer.com/) — Email verification with toxicity checks.
-
+- [Email Validation](https://email-validation.org/) — Validate email addresses in bulk or via API/MCP, pay-as-you-go from $35/10k credits, up to 500 free credits.
 ## Spam Score Testing
 
 - [Mail-Tester](https://www.mail-tester.com/) — Spam score from 1-10 with detailed breakdown. 3 free tests/day.
