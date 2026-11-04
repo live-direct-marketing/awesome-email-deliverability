@@ -52,6 +52,7 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 - [DMARC Report](https://dmarc.report/) — Free DMARC aggregate report analyzer.
 - [Valimail](https://www.valimail.com/) — Enterprise DMARC enforcement and monitoring.
 - [Agari](https://www.agari.com/) — Advanced email authentication and DMARC management.
+- [Humerly DMARC Report Analyzer](https://forensics.humerly.com/tools/dmarc-analyzer) — Free DMARC aggregate report analyzer. Upload a report and read sending sources, pass and fail counts, and GeoIP enrichment.
 
 ## Warm-up & Reputation
 
