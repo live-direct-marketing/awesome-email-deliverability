@@ -37,6 +37,7 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 - [Mail-Tester](https://www.mail-tester.com/) — Send an email to a unique address, get a spam score (1-10) with SPF/DKIM/DMARC analysis. 3 free tests/day.
 - [Google Admin Toolbox](https://toolbox.googleapps.com/apps/checkmx/) — Check MX records and DNS configuration for Gmail deliverability.
 - [DMARC Analyzer](https://www.dmarcanalyzer.com/) — DMARC record validation and reporting.
+- [Humerly DMARC Checker](https://audit.humerly.com/dmarc-checker) — Free tool that reads a domain's DMARC record from live DNS.
 - [SPF Record Checker](https://www.kitterman.com/spf/validate.html) — Validate SPF records for syntax and DNS lookup limits.
 
 ## Blacklist Monitoring
