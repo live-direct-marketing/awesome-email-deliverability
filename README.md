@@ -48,6 +48,7 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 
 ## DMARC Monitoring
 
+- [PageUtil DMARC Report Analyser](https://pageutil.com/dmarc-report-analyser/) — Analyse aggregate XML, GZIP and ZIP reports locally, compare source IPs and alignment between batches, and export CSV.
 - [Postmark DMARC](https://dmarc.postmarkapp.com/) — Free DMARC monitoring with weekly digest reports.
 - [DMARC Report](https://dmarc.report/) — Free DMARC aggregate report analyzer.
 - [Valimail](https://www.valimail.com/) — Enterprise DMARC enforcement and monitoring.
