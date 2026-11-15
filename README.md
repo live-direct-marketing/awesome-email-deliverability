@@ -67,6 +67,7 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 - [NeverBounce](https://neverbounce.com/) — Real-time email verification API.
 - [Reoon Email Verifier](https://www.reoon.com/) — Bulk email verification with high accuracy.
 - [Bouncer](https://www.usebouncer.com/) — Email verification with toxicity checks.
+- [MailTester Ninja](https://mailtester.ninja/) — Real-time email verification API that checks each address with its mail server without sending an email. Free API token with 50 checks a day.
 
 ## Spam Score Testing
 
