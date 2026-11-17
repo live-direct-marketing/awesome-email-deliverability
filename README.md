@@ -65,6 +65,7 @@ Tools for checking and validating SPF, DKIM, DMARC, and DNS configuration.
 - [Hunter.io Email Verifier](https://hunter.io/email-verifier) — Verify individual email addresses. Free tier available.
 - [ZeroBounce](https://www.zerobounce.net/) — Bulk email validation with spam trap detection.
 - [NeverBounce](https://neverbounce.com/) — Real-time email verification API.
+- [FairValid](https://fairvalid.com/) — Individual and bulk CSV email verification with an API; 300 free monthly credits shared with work-email search. Unknown and catch-all verification results use no net credits.
 - [Reoon Email Verifier](https://www.reoon.com/) — Bulk email verification with high accuracy.
 - [Bouncer](https://www.usebouncer.com/) — Email verification with toxicity checks.
 
